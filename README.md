@@ -83,7 +83,7 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 
 * The IBM Granite model processes the user's request. 🤔
 
-* The RAG system instantly searches the `Fitness_Buddy_Knowledge_Base.docx` for the most relevant information. 🔍
+* The RAG system instantly searches the [`Fitness_Buddy_Knowledge_Base.docx`](Fitness_Buddy_Knowledge_Base.docx) for the most relevant information. 🔍
 
 * If the answer is not found in the document, the agent uses its web search tool to find an accurate response. 🌐
 
