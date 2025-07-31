@@ -3,7 +3,7 @@
 An AI-powered personal coach and digital assistant designed to guide users through their health and wellness journey. Utilizing **IBM watsonx.ai Studio** and a Retrieval-Augmented Generation (RAG) system, this intelligent assistant delivers trusted advice on workouts, nutrition, motivation, and habits, all customized to the user's specific needs and fitness level.
 
 
-<img width="2816" height="1536" alt="Fitness-Buddy-AI" src="https://github.com/user-attachments/assets/ec4c5c00-5188-4d7c-9ca7-839a151f9dea" />
+![Fitness-Buddy](Fitness-Buddy-AI.png)
 
 
 ## 🎯 Problem Statement
@@ -91,17 +91,26 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 
 ## 📸 Screenshots
 
-* (To be added: Images showing the Agent Lab setup, knowledge base upload, and test conversations.) 🖼️
-
-* **Screenshots to include:**
-
-  * The main Agent Lab interface with the model and instructions visible. 🖥️
-
-  * The vector index creation panel showing the `.docx` file being uploaded. 📂
-
-  * The "Agent preview" chat box demonstrating a successful conversation. 💬
-
-  * The "Deploy as an AI service" panel showing the deployment space. 🚀
+### 🔹 Setting up..
+![Setup & preview image](Setup.png)
+### 🔹 Quick Start Questions...
+![Quick Start Questions](Quick-Start-Questions.png)
+### 🔹 Agent Instructions...
+![Agent Instructions](Agent-Instruction.png)
+### 🔹 Common Instructions...
+![Common Instructions](Common-Instruction.png)
+### 🔹 Knowledge (Vector Index)...
+![Knowlege](Vector-Index.png)
+### 🔹 Tools Used & Testing...
+![Tool Used & Testing](Tools-and-Testing.png)
+### 🔹 Deployment...
+![Deployment](Deployed.png)
+### 🔹 API References after Deployment...
+![API References](API-Reference.png)
+### 🔹 Preview...
+![Preview](Preview.png)
+### 🔹 Resource List...
+![Resource List](Resource-List.png)
 
 ## 🏃‍♀️ How to Run or Deploy
 
