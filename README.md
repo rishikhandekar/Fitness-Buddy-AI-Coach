@@ -140,7 +140,7 @@ The Fitness Buddy AI Coach is a successful project that demonstrates the power o
 
 * [IBM Watsonx.ai](https://www.ibm.com/watsonx)
 
-* [IBM SkillsBuild](https://www.google.com/search?q=https://www.ibm.com/skills/skillsbuild)
+* [IBM SkillsBuild](https://skillsbuild.org/)
 
 ## 📜 License
 
