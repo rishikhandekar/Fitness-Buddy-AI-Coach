@@ -23,7 +23,7 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 
 * **AI Model:** IBM Granite (`granite-3-3-8b-instruct`), a foundational LLM optimized for instruction-following. 🤖
 
-* **Knowledge Source:** A single, well-structured `.docx` file (`Fitness_Buddy_Knowledge_Base.docx`) containing all the project's data. 📂
+* **Knowledge Source:** A single, well-structured `.docx` file ([`Fitness_Buddy_Knowledge_Base.docx`](Fitness_Buddy_Knowledge_Base.docx)) containing all the project's data. 📂
 
 * **Data Retrieval:** A Vector Index for RAG. 🔍
 
