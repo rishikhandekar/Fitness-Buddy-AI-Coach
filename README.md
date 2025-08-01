@@ -27,6 +27,8 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 
 * **Data Retrieval:** A Vector Index for RAG. 🔍
 
+* **NLP:** Natural Language Processing 🧠
+
 * **Storage:** IBM Cloud Object Storage 📦
 
 ## ☁️ IBM Cloud Services Used
