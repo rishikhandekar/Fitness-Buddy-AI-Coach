@@ -47,7 +47,7 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 
 * **RAG-Powered:** Fetches answers directly from a custom `.docx` file to ensure accuracy. 🎯
 
-* **Web-Enabled Answers:** The agent is equipped with tools like Google Search, DuckDuckGo Search, Wikipedia Search, and Webcrawler, allowing it to provide accurate answers even when the data isn't in its primary knowledge base. 🧠
+* **Web-Enabled Answers:** The agent uses tools like Google Search, DuckDuckGo Search, Wikipedia Search, and Webcrawlers to provide accurate answers, even when the data isn't in its knowledge base. 🧠
 
 * **Built on IBM Cloud:** Entirely configured and deployed using powerful IBM watsonx tools. ☁️
 
