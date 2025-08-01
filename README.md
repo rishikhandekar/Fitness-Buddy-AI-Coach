@@ -19,7 +19,7 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 
 ## 💻 Technologies Used
 
-* **Platform:** IBM watsonx.ai Studio 🎨
+* **Cloud Services:** IBM Cloud Object Storage, IBM Cloud Lite Account. ☁️
 
 * **AI Model:** IBM Granite (`granite-3-3-8b-instruct`), a foundational LLM optimized for instruction-following. 🤖
 
@@ -29,15 +29,15 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 
 * **NLP:** Natural Language Processing 🧠
 
-* **Storage:** IBM Cloud Object Storage 📦
-
 ## ☁️ IBM Cloud Services Used
 
-* **watsonx.ai Studio:** The core development and deployment environment.
+* **IBM Cloud Watsonx AI Studio:** The core development and deployment environment.
 
-* **IBM Granite Model:** The large language model powering the agent's intelligence.
+* **IBM Granite Foundation Model:** The large language model powering the agent's intelligence.
 
-* **Watsonx Vector Index:** The service used to create and host the RAG knowledge base.
+* **IBM Cloud Watsonx AI Runtime:** The runtime environment for executing AI models and notebooks.
+
+* **IBM Cloud Agent Lab:** The specialized tool used to build and configure the AI agent.
 
 * **IBM Cloud Lite Account:** All services for this project were provisioned and utilized within the free tier. 🆓
 
