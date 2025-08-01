@@ -102,25 +102,25 @@ An AI-powered personal coach and digital assistant designed to guide users throu
 ## 📸 Screenshots
 
 ### 🔹 Setting up..
-![Setup & preview image](Setup.png)
+![Setup & preview image](Images/Setup.png)
 ### 🔹 Quick Start Questions...
-![Quick Start Questions](Quick-Start-Questions.png)
+![Quick Start Questions](Images/Quick-Start-Questions.png)
 ### 🔹 Agent Instructions...
-![Agent Instructions](Agent-Instruction.png)
+![Agent Instructions](Images/Agent-Instruction.png)
 ### 🔹 Common Instructions...
-![Common Instructions](Common-Instruction.png)
+![Common Instructions](Images/Common-Instruction.png)
 ### 🔹 Knowledge (Vector Index)...
-![Knowlege](Vector-Index.png)
+![Knowlege](Images/Vector-Index.png)
 ### 🔹 Tools Used & Testing...
-![Tool Used & Testing](Tools-and-Testing.png)
+![Tool Used & Testing](Images/Tools-and-Testing.png)
 ### 🔹 Deployment...
-![Deployment](Deployed.png)
+![Deployment](Images/Deployed.png)
 ### 🔹 API References after Deployment...
-![API References](API-Reference.png)
+![API References](Images/API-Reference.png)
 ### 🔹 Preview...
-![Preview](Preview.png)
+![Preview](Images/Preview.png)
 ### 🔹 Resource List...
-![Resource List](Resource-List.png)
+![Resource List](Images/Resource-List.png)
 
 ## 🏃‍♀️ How to Run or Deploy
 
