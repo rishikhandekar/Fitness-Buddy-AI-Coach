@@ -3,7 +3,7 @@
 An AI-powered personal coach and digital assistant designed to guide users through their health and wellness journey. Utilizing **IBM watsonx.ai Studio** and a Retrieval-Augmented Generation (RAG) system, this intelligent assistant delivers trusted advice on workouts, nutrition, motivation, and habits, all customized to the user's specific needs and fitness level.
 
 
-![Fitness-Buddy](Fitness-Buddy-AI.png)
+![Fitness-Buddy](Images/Fitness-Buddy-AI.png)
 
 
 ## 🎯 Problem Statement
